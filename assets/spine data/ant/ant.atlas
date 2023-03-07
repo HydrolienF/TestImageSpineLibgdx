@@ -1,0 +1,54 @@
+ant.png
+size:2028,1647
+filter:Linear,Linear
+pma:true
+abdomen
+bounds:2,853,792,1080
+offsets:1404,1200,3600,4800
+rotate:90
+funiculus r
+bounds:984,224,94,627
+offsets:2192,1457,3200,3200
+head
+bounds:1080,49,557,513
+offsets:1521,3437,3600,4800
+leg coxa r
+bounds:1800,924,203,157
+offsets:1846,2520,3600,4800
+rotate:90
+leg femur r
+bounds:1730,345,296,485
+offsets:1981,2105,3600,4800
+leg tarsus r
+bounds:1080,564,266,648
+offsets:2476,1212,3600,4800
+rotate:90
+leg tibia r
+bounds:1639,2,341,386
+offsets:2212,1777,3600,4800
+rotate:90
+mandible r
+bounds:828,76,165,101
+offsets:1802,3914,3600,4800
+rotate:90
+mandible red r
+bounds:1800,1129,159,245
+offsets:1801,3905,3600,4800
+petiol
+bounds:605,24,217,221
+offsets:1691,2366,3600,4800
+rotate:90
+postpetiole
+bounds:1800,1376,269,197
+offsets:1667,2192,3600,4800
+rotate:90
+scape r
+bounds:2,127,601,114
+offsets:1676,1398,3200,3200
+thorax
+bounds:2,243,608,980
+offsets:1496,2493,3600,4800
+rotate:90
+thorax color
+bounds:1084,832,714,813
+offsets:2643,3021,6000,6500

@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "9RNK3AW0iwo",
+	"spine": "4.1.19",
+	"x": -144,
+	"y": -159.5,
+	"width": 288,
+	"height": 319,
+	"images": "../../../git/TestImageSpineLibgdx/assets/basic images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "test image", "bone": "root", "attachment": "test image" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"test image": {
+				"test image": { "width": 288, "height": 319 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}
